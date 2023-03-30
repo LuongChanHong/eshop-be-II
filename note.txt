@@ -1,6 +1,6 @@
 Update app:
-- commit deploy glitch
-"commit deploy glitch"
+- update trust proxy
+"update trust proxy"
 
 Set up server app: 
 - Cài nodemon: npm i express --save-dev
